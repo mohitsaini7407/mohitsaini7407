@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "projects": [
+    {
+      "repo": "Talk2Data",
+      "description": "Natural-language to SQL application that converts user questions into database queries."
+    },
+    {
+      "repo": "Menix",
+      "description": "Full-stack web application with a React frontend and MongoDB backend."
+    },
+    {
+      "repo": "Packing-List",
+      "description": "React application for creating and managing travel packing lists."
+    },
+    {
+      "repo": "Employee-Management-System",
+      "description": "Web application for managing employee records and operations."
+    }
+  ]
+}
