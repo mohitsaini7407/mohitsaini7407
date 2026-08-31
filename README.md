@@ -98,9 +98,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mohitsaini7407/mohitsaini7407/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsaini7407/mohitsaini7407/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/mohitsaini7407/mohitsaini7407/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
