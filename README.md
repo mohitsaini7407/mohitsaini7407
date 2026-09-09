@@ -161,20 +161,20 @@ and I solve problems for fun when neither of those is cooperating.
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/mohitsaini7407/sentiment-analysis">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-sentiment-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-sentiment-light.svg">
+      <img src="assets/card-sentiment-dark.svg" width="420" alt="sentiment">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/mohitsaini7407/Employee-Management-System">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-EMS-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-EMS-light.svg">
+      <img src="assets/card-EMS-dark.svg" width="420" alt="EMS">
     </picture>
   </a>
 </td>

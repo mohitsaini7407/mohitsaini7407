@@ -6,16 +6,16 @@
       "description": "A FastAPI-based disaster prediction and risk analysis backend powered by Gemini AI. Features Disaster risk prediction Location-based analysis Multi-language support FastAPI backend Gemini AI integration Health check endpoints CORS enabled. model trained with ML algo using python."
     },
     {
-      "repo": "Menix",
+      "repo": "menix-full-stack",
       "description": "Full-stack web application with a React frontend and MongoDB backend."
     },
     {
-      "repo": "Packing-List",
-      "description": "React application for creating and managing travel packing lists."
+      "repo": "sentiment-analysis",
+      "description": "Sentiment analysis application for processing and analyzing text data."
     },
     {
       "repo": "Employee-Management-System",
-      "description": "Web application for managing employee records and operations."
+      "description": "Java dashboard for managing employee records and operations."
     }
   ]
 }
