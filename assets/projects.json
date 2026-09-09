@@ -2,8 +2,8 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
   "projects": [
     {
-      "repo": "Talk2Data",
-      "description": "Natural-language to SQL application that converts user questions into database queries."
+      "repo": "disasterguard",
+      "description": "A FastAPI-based disaster prediction and risk analysis backend powered by Gemini AI. Features Disaster risk prediction Location-based analysis Multi-language support FastAPI backend Gemini AI integration Health check endpoints CORS enabled. model trained with ML algo using python."
     },
     {
       "repo": "Menix",

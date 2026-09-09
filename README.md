@@ -37,7 +37,7 @@ $ cat about.txt
 Hi, I'm **Mohit Saini**. I build things that sit somewhere between Data Science and Full stack development,
 and I solve problems for fun when neither of those is cooperating.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
+- Currently building production ready **[Menix](https://github.com/mohitsaini7407/menix-full-stack)** and **[TerraSense](https://github.com/mohitsaini7407/disasterguard)**
 - Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
 - Learning **React + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
@@ -141,20 +141,20 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/mohitsaini7407/disasterguard/">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-disasterguard-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-disasterguard-light.svg">
+      <img src="assets/disasterguard.svg" width="420" alt="disasterguard">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/mohitsaini7407/menix-full-stack">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-menix-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-menix-light.svg">
+      <img src="assets/menix.svg" width="420" alt="menix">
     </picture>
   </a>
 </td>
@@ -181,16 +181,16 @@ and I solve problems for fun when neither of those is cooperating.
 </tr>
 </table>
 
-<sub>
+<!-- <sub>
 
 | project | live | stack |
 |---|---|---|
 | **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
 | **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
 | **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` | 
 
-</sub>
+</sub> -->
 
 </div>
 
