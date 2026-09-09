@@ -71,7 +71,7 @@ jobs:
       # - name: Achievements
       #   uses: lowlighter/metrics@latest
       #   with:
-      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     token:
       #     user: mohitsaini7407
       #     filename: assets/metrics.achievements.svg
       #     base: ""
