@@ -48,7 +48,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,docker,kubernetes,cursor,copilot&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,docker,aws,linux,flask,pytorch,postgresql&perline=11" alt="tech stack">
 
 </div>
 
