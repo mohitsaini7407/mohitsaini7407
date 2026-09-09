@@ -152,9 +152,9 @@ and I solve problems for fun when neither of those is cooperating.
 <td width="50%">
   <a href="https://github.com/mohitsaini7407/menix-full-stack">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-menix-dark.svg">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-menix-full-stack-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-menix-light.svg">
-      <img src="assets/menix.svg" width="420" alt="menix">
+      <img src="assets/menix-full-stack.svg" width="420" alt="menix-full-stack">
     </picture>
   </a>
 </td>
@@ -163,18 +163,18 @@ and I solve problems for fun when neither of those is cooperating.
 <td width="50%">
   <a href="https://github.com/mohitsaini7407/sentiment-analysis">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-sentiment-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-sentiment-light.svg">
-      <img src="assets/card-sentiment-dark.svg" width="420" alt="sentiment">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-sentiment-analysis-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-sentiment-analysis-light.svg">
+      <img src="assets/card-sentiment-analysis-dark.svg" width="420" alt="sentiment-analysis">
     </picture>
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/mohitsaini7407/Employee-Management-System">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-EMS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-EMS-light.svg">
-      <img src="assets/card-EMS-dark.svg" width="420" alt="EMS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Employee-Management-System-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Employee-Management-System-light.svg">
+      <img src="assets/card-Employee-Management-System-dark.svg" width="420" alt="Employee-Management-System">
     </picture>
   </a>
 </td>
