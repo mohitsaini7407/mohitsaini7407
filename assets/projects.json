@@ -11,11 +11,11 @@
     },
     {
       "repo": "sentiment-analysis",
-      "description": "Sentiment analysis application for processing and analyzing text data."
+      "description": "Sentiment analysis application for processing and analyzing text data and implementing machine learning models."
     },
     {
       "repo": "Employee-Management-System",
-      "description": "Java dashboard for managing employee records and operations."
+      "description": "Java dashboard for managing employee records and operations. SQLite database integration for data storage and retrieval. Features include employee registration, record management, and reporting."
     }
   ]
 }
