@@ -27,9 +27,7 @@
 </div>
 
 ---
-<div align="center">
 ## `~/` whoami
-</div>
 
 Hi, I'm **Mohit Saini**. I build things that sit somewhere between Data Science and Full stack development,
 and I solve problems for fun when neither of those is cooperating.
