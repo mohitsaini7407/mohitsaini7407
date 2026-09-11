@@ -27,7 +27,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## `~/` whoami
 
 
@@ -38,7 +38,7 @@ and I solve problems for fun when neither of those is cooperating.
 - Portfolio: **[mohit-lac.vercel.app](https://mohit-lac.vercel.app)**
 - Learning **Full Stack + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
-
+</div>
 <br>
 
 <div align="center">
