@@ -38,7 +38,7 @@ Hi, I'm **Mohit Saini**. I build things that sit somewhere between Data Science 
 and I solve problems for fun when neither of those is cooperating.
 
 - Currently building production ready **[Menix](https://github.com/mohitsaini7407/menix-full-stack)** and **[TerraSense](https://github.com/mohitsaini7407/disasterguard)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://mohit-lac.vercel.app)**
+- Portfolio: **[mohit-lac.vercel.app](https://mohit-lac.vercel.app)**
 - Learning **React + Machine Learning**
 - Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
